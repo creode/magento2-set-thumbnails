@@ -9,6 +9,9 @@ Install using composer
 ### Development Usage ###
 You don't need to run the maintenance or static content deploy commands if you are in development mode.
 
+```bin/magento creode:set-thumbnails```
+
+
 ### Live Usage ###
 ```bin/magento maintenance:enable```
 ```bin/magento creode:set-thumbnails```
