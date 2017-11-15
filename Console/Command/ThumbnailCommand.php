@@ -159,10 +159,10 @@ class ThumbnailCommand extends Command
     	$output->writeln('');
     	$output->writeln('<fg=green;>Complete!</>');
     	$output->writeln('');
-    	$output->writeln('Thumbnails Updated: <fg=green;>'.$counts['success'].'</>');
-    	$output->writeln('Skipped Products: <fg=yellow;>'.$counts['skips'].'</>');
     	$output->writeln('No Images found: <fg=red;>'.$counts['fails'].'</>');
-    	 $output->writeln('Hello World!');
+    	$output->writeln('Skipped Products: <fg=yellow;>'.$counts['skips'].'</>');
+    	$output->writeln('Thumbnails Updated: <fg=green;>'.$counts['success'].'</>');
+
         
         
     }
