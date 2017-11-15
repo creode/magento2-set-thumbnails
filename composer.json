@@ -1,11 +1,11 @@
 {
-    "name": "creode/module-thumbnailselector",
+    "name": "creode/thumbnailselector",
     "description": "",
     "license": "proprietary",
     "authors": [
         {
-            "email": "info@mage2gen.com",
-            "name": "Mage2Gen"
+            "email": "james.bell@creode.co.uk",
+            "name": "James Bell"
         }
     ],
     "minimum-stability": "dev",
